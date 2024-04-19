@@ -2,7 +2,7 @@
 
 Categoria: Desafio de API de Notion
 
-# Integración para la Sincronización de Asignaciones (ISA)
+# Integración de Notion para la Sincronización de Asignaciones (INSA)
 
 ## Integrantes:
 
@@ -56,3 +56,4 @@ La parte más importante viene en que Notion tambien generará alertas o recorda
 ## Integraciones
 
 - Classroom
+- Notion
